@@ -1,4 +1,8 @@
-# simon-game
+# Simon game
+
+# Demo
+![Simon](https://user-images.githubusercontent.com/70070905/126495779-879d02fa-ba6b-493d-82d5-65e3677962e7.gif)
+
 
 ## Project setup
 ```
